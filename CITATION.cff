@@ -1,0 +1,26 @@
+
+---
+
+## 📄 `CITATION.cff`
+
+```yaml
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+title: "Smart LLM Pruning: Efficient Optimization Under GPU Scarcity"
+version: 1.0.0
+date-released: 2026-01-01
+license: MIT
+
+authors:
+  - family-name: Sehili
+    given-name: Chams Eddine
+ 
+  - family-name: ALBOURM  
+    given-name: Amar
+
+repository-code: https://github.com/SehiliChamsEddine/smart-llm-pruning
+keywords:
+  - Large Language Models
+  - Model Pruning
+  - Neural Network Compression
+  - Efficient AI
